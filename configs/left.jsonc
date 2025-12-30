@@ -1,0 +1,10 @@
+{
+    "reload_style_on_change": true,
+    "layer": "top",
+    "position": "left",
+    "width": 70,
+    "margin-top": 70,
+    "margin-bottom": 70,
+    "exclusive": false,
+    "passthrough": true
+}

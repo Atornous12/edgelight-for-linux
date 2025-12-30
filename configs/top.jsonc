@@ -1,0 +1,8 @@
+{
+    "reload_style_on_change": true,
+    "layer": "top",
+    "position": "top",
+    "height": 70,
+    "exclusive": false,
+    "passthrough": true
+}

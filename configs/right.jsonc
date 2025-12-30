@@ -1,0 +1,41 @@
+{
+    "reload_style_on_change": true,
+    "layer": "top",
+    "position": "right",
+    "width": 70,
+    "margin-top": 70,
+    "margin-bottom": 70,
+    "exclusive": false,
+    "passthrough": false,
+    "modules-left": [],
+    "modules-center": ["custom/light-slider"],
+
+    "custom/light-slider": {
+        "format": "{icon} {text}",
+        "format-icons": [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "return-type": "json",
+        "exec": "$HOME/.config/edgelight/scripts/brightness_slider.sh status",
+        "signal": 10,
+        "on-double-click": "$HOME/.config/edgelight/scripts/brightness_slider.sh highest",
+        "on-click": "$HOME/.config/edgelight/scripts/brightness_slider.sh lowest",
+        "on-scroll-up": "$HOME/.config/edgelight/scripts/brightness_slider.sh up",
+        "on-scroll-down": "$HOME/.config/edgelight/scripts/brightness_slider.sh down",
+        "tooltip": false
+    }
+}
