@@ -35,14 +35,14 @@ It’s basically a fake ring light made out of simple waybar UI.
 
 edgelight-for-linux
 ├── configs
-│   ├── top.jsonc
-│   ├── bottom.jsonc
-│   ├── right.jsonc
-│   ├── left.jsonc
-│   └── shared.css
+│   ├── top.jsonc
+│   ├── bottom.jsonc
+│   ├── right.jsonc
+│   ├── left.jsonc
+│   └── shared.css
 ├── launch.sh
 ├── scripts
-│   └── brightness_slider.sh
+│   └── brightness_slider.sh
 └── README.md
 
 ---
