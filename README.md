@@ -57,7 +57,7 @@ edgelight-for-linux
 
 ## How to run
 
-Clone the repo and run:
+Clone the repo in `~/.config` directory and run:
 
 ```bash
 git clone https://github.com/Atornous12/edgelight-for-linux.git
