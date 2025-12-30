@@ -40,7 +40,6 @@ edgelight-for-linux
 │   ├── right.jsonc
 │   ├── left.jsonc
 │   └── shared.css
-│   
 ├── launch.sh
 ├── scripts
 │   └── brightness_slider.sh
