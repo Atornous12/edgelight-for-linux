@@ -1,5 +1,5 @@
 #!/bin/bash
-CSS_FILE="$HOME/.config/edgelight/configs/shared.css"
+CSS_FILE="$HOME/.config/edgelight-for-linux/configs/shared.css"
 
 
 # for waybar's status

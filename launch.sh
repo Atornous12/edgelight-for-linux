@@ -2,7 +2,7 @@
 
 # paths
 PIDFILE="$HOME/.cache/edgelight.pids"
-LIGHT_DIR="$HOME/.config/edgelight/configs"
+LIGHT_DIR="$HOME/.config/edgelight-for-linux/configs"
 CSS="$LIGHT_DIR/shared.css"
 
 # kill lights if active

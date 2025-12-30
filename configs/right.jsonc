@@ -30,12 +30,12 @@
             ""
         ],
         "return-type": "json",
-        "exec": "$HOME/.config/edgelight/scripts/brightness_slider.sh status",
+        "exec": "$HOME/.config/edgelight-for-linux/scripts/brightness_slider.sh status",
         "signal": 10,
-        "on-double-click": "$HOME/.config/edgelight/scripts/brightness_slider.sh highest",
-        "on-click": "$HOME/.config/edgelight/scripts/brightness_slider.sh lowest",
-        "on-scroll-up": "$HOME/.config/edgelight/scripts/brightness_slider.sh up",
-        "on-scroll-down": "$HOME/.config/edgelight/scripts/brightness_slider.sh down",
+        "on-double-click": "$HOME/.config/edgelight-for-linux/scripts/brightness_slider.sh highest",
+        "on-click": "$HOME/.config/edgelight-for-linux/scripts/brightness_slider.sh lowest",
+        "on-scroll-up": "$HOME/.config/edgelight-for-linux/scripts/brightness_slider.sh up",
+        "on-scroll-down": "$HOME/.config/edgelight-for-linux/scripts/brightness_slider.sh down",
         "tooltip": false
     }
 }
